@@ -1,0 +1,23 @@
+#suwak {
+  position: absolute;
+  bottom: 25px;
+  left: 200px;
+}
+
+#suwak2 {
+  position: absolute;
+  bottom: 25px;
+  left: 400px;
+}
+
+#stop {
+  position: absolute;
+  bottom: 25px;
+  left: 600px;
+}
+
+#start {
+  position: absolute;
+  bottom: 25px;
+  left: 750px;
+}
